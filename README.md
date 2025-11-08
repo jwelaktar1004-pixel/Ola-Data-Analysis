@@ -5,6 +5,8 @@ This project focuses on analyzing Ola ride data to find insights related to book
 
 Power bi Dashboard link : https://drive.google.com/file/d/1nvGDpZkcQKqrmStDnHodD-KrNM4xueSt/view?usp=sharing
 
+Power Bi Service Link : https://app.powerbi.com/links/Amd9zWf8NC?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare
+
 Tools Used:
 
 Excel: Data cleaning and preparation
