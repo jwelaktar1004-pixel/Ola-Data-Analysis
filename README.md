@@ -5,7 +5,7 @@ This project focuses on analyzing Ola ride data to find insights related to book
 
 Power bi Dashboard link : https://drive.google.com/file/d/1nvGDpZkcQKqrmStDnHodD-KrNM4xueSt/view?usp=sharing
 
-Power Bi Service Link : https://app.powerbi.com/links/Amd9zWf8NC?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare
+Power Bi Service Link : https://app.powerbi.com/links/Amd9zWf8NC?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare&bookmarkGuid=af2b5b3e-b14e-4b7e-a134-3a11c36a8add
 
 Ola Project Report Link google drive : https://docs.google.com/presentation/d/1CO6th3USYkzIUbZ0VamKjiBhr2zUKLyw/edit?usp=sharing&ouid=106046100802805057417&rtpof=true&sd=true
 
