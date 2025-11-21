@@ -7,6 +7,8 @@ Power bi Dashboard link : https://drive.google.com/file/d/1nvGDpZkcQKqrmStDnHodD
 
 Power Bi Service Link : https://app.powerbi.com/links/Amd9zWf8NC?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare
 
+Ola Project Report Link google drive : https://docs.google.com/presentation/d/1CO6th3USYkzIUbZ0VamKjiBhr2zUKLyw/edit?usp=sharing&ouid=106046100802805057417&rtpof=true&sd=true
+
 Tools Used:
 
 Excel: Data cleaning and preparation
@@ -15,15 +17,4 @@ SQL: Querying data and solving analytical questions
 
 Power BI: Building dashboards and visual summaries
 
-Key Insights:
 
-Micro and Mini rides had the highest usage.
-
-UPI and online payments were preferred over cash.
-
-Most rides were successfully completed with good ratings.
-
-Peak booking times occurred during morning and evening hours.
-
-Outcome:
-A complete end-to-end data analysis project that demonstrates the use of Excel, SQL, and Power BI together for real-world business insights.
